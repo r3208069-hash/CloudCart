@@ -1,3 +1,4 @@
+# Docker Compose v3.8 - Production-style local orchestration
 version: '3.8'
 
 # Named volumes persist data between container restarts

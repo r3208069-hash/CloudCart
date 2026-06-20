@@ -1,6 +1,3 @@
--- CloudCart Database Schema
--- Run this once to create all tables
-
 USE cloudcart;
 
 CREATE TABLE IF NOT EXISTS users (
